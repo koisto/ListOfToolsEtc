@@ -3,6 +3,9 @@
 ## Linux
 - tmux
 - terminator
+- [PS1 generator](https://bash-prompt-generator.org/)
+- [regex](https://regex101.com/)
+- [Decode a command](https://explainshell.com/)
 - [Obsidian](https://obsidian.md/)
 
 ## C/C++ Development
@@ -20,6 +23,7 @@
 - [CivetWeb](https://github.com/civetweb/civetweb)
 - [uSockets](https://github.com/uNetworking/uSockets)
 - [uWebSockets](https://github.com/uNetworking/uWebSockets)
+- [ZeroMQ](https://zeromq.org/)
 
 ## SDR
 - [GNU Octave](https://octave.org/)
@@ -47,14 +51,25 @@
 - [AFL++](https://github.com/AFLplusplus/AFLplusplus)
 
 ## Cybersecurity
-gtfobins
-payload all the things
-kali
-john the ripper
-hashcat
-linpease
-burpsuite
-dirbuster
 
+- [CyberChef](https://gchq.github.io/CyberChef/)
+- [gtfobins](https://gtfobins.github.io/)
+- [payload all the things](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master)
 
+### Proxies/Enumeration
+- burpsuite
+- postman
+- dirbuster
 
+### Hash cracking
+- john the ripper
+- hashcat
+
+### ROP Chains
+- [libc lookup](https://libc.rip/)
+- [Intro to ROP](https://codearcana.com/posts/2013/05/28/introduction-to-return-oriented-programming-rop.html)
+- [How ROP works](https://secureteam.co.uk/2020/09/18/how-return-oriented-programming-exploits-work/)
+ 
+### Shellcode
+- [Reverse Shell Generator](https://www.revshells.com/), [repo](https://github.com/weibell/reverse-shell-generator)
+- [Upgrading to fully interactive](https://blog.ropnop.com/upgrading-simple-shells-to-fully-interactive-ttys/#tldr-cheatsheet)
