@@ -5,7 +5,8 @@ tmux
 terminator
 
 ## C/C++ Development
-CMake
+[VSCode](https://code.visualstudio.com/) 
+[CMake](https://cmake.org/)
 GCC
 GDB
 gef
