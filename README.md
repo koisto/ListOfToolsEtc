@@ -23,6 +23,7 @@ uWebSockets
 
 
 ## SDR
+GNU Octave
 GNU Radio
 Leansdr
 csdr
