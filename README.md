@@ -3,6 +3,7 @@
 ## Linux
 - tmux
 - terminator
+- [Obsidian](https://obsidian.md/)
 
 ## C/C++ Development
 - [VSCode](https://code.visualstudio.com/) 
@@ -21,28 +22,29 @@
 - [uWebSockets](https://github.com/uNetworking/uWebSockets)
 
 ## SDR
-GNU Octave
-GNU Radio
-Leansdr
-csdr
-Analog Devices Pluto
+- [GNU Octave](https://octave.org/)
+- [GNU Radio](https://www.gnuradio.org/), [Tutorials](https://wiki.gnuradio.org/index.php/Tutorials)
+- [PySDR](https://pysdr.org/)
+- [leansdr](https://github.com/pabr/leansdr)
+- [csdr](https://github.com/ha7ilm/csdr)
+- [Analog Devices Pluto](https://wiki.analog.com/university/tools/pluto)
 
 ## Embedded
-Buildroot
-Pico SDK
+- [Buildroot](https://buildroot.org/), [github mirror](https://github.com/buildroot/buildroot)
+- [raspbeery pi pico SDK](https://github.com/raspberrypi/pico-sdk)
 
 ## Networking
 - Wireshark
-- Nmap
-- Ncat
+- [nmap](https://nmap.org/)
+- [ncat/nc](https://linux.die.net/man/1/nc) - most capable version ships with nmap
 - [socat](https://linux.die.net/man/1/socat), [Cheat Sheet](https://github.com/cheat/cheatsheets/blob/master/socat)
-- [Curl converter](https://curlconverter.com/)
+- [curl converter](https://curlconverter.com/)
 
 ## Reverse Engineering
-Ghidra
-Frida
-cxxfilt
-AFL++
+- Ghidra
+- [Frida](https://frida.re/)
+- [cxxfilt](https://pypi.org/project/cxxfilt/)
+- [AFL++](https://github.com/AFLplusplus/AFLplusplus)
 
 ## Cybersecurity
 gtfobins
