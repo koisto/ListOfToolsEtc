@@ -12,7 +12,7 @@
 - [VSCode](https://code.visualstudio.com/) 
 - [CMake](https://cmake.org/)
 - GCC
-- GDB, [Cheat Sheet](https://darkdust.net/files/GDB%20Cheat%20Sheet.pdf), [gef](https://hugsy.github.io/gef/)
+- GDB, [Cheat Sheet](https://darkdust.net/files/GDB%20Cheat%20Sheet.pdf), [gef](https://hugsy.github.io/gef/), [pwndbg](https://github.com/pwndbg/pwndbg)
 - LLVM
 - [Emscripten](https://emscripten.org/)
 - [grep.app](https://grep.app)
